@@ -19,10 +19,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-### Contact
 
+### 🤝🏻 &nbsp;Connect with Me
+
+
+<a href="mailto:sureshhtckumar@gmail.com"><img src="https://img.shields.io/badge/-sureshhtckumar@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+ 
 [<img align="left" alt="anish-m-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sureshkumar311)
 
+ 
 <br><br>
 
 <!-- <details>
