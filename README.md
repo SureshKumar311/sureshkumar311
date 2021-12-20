@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 
 
 ### Contact
-[<img align="left" alt="anish-m-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/sureshkumar311)
-<!-- [<img align="left" alt="aneesh25861 | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/aneesh25861) -->
-<!-- [<img align="left" alt="aneesh25861 | PGP KEY" width="22px" src="https://keybase.io/images/paramproofs/services/pgp/logo_black_16@2x.png" />](https://outflaw.blogspot.com/2019/12/my-pgp-key.html) -->
+
+[<img align="left" alt="anish-m-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sureshkumar311)
 
 <br><br>
 
