@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Native android , web development.
 <!-- - 👯 I’m looking to collaborate on  -->
 - 🤔 I’m looking for Mobiles and backend projects 
-- 💬 Ask me about Mobile development ,firebase ,dart ,node js ,JS ,firestore .
-- 📫 How to reach me: sureshkumar3112001@gmail.com ,  skype : live:.cid.5018b611b130bc25
-  Telegram : @sureshkumar31 .
+- 💬 Ask me about Mobile development , firebase ,dart , node js , JS , firestore .
+- 📫 How to reach me: sureshkumar3112001@gmail.com 
+- Skype : live:.cid.5018b611b130bc25
+- Telegram : @sureshkumar31
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
